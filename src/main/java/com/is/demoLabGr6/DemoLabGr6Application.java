@@ -11,8 +11,6 @@ public class DemoLabGr6Application {
 	}
 
 
-
-
-    //lakaalalala
+	// functie de login smechera
 
 }
